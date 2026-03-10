@@ -15,7 +15,7 @@
  <br>
  # Formado em Análise e Desenvolvimento de sistemas, estudando Python focado em análise de dados.
  <br> 
- # Para conteúdo sobre dados me siga nas redes abaixo! Formado em Análise e Desenvolvimento de sistemas.
+ # Para conteúdo sobre dados me siga nas redes abaixo!
  
 <div> 
 
