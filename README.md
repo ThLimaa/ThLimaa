@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre dados me segue a gente nas redes abaixo!
+  ### Para conteúdo sobre dados me segue a gente nas redes abaixo! Formado em Análise e Desenvolvimento de sistemas, estudando Python focado em análise de dados.
  
 <div> 
   
