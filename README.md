@@ -13,7 +13,7 @@
 </div>
  
  <br>
- # Formado em Análise e Desenvolvimento de sistemas, estudando Python focado em análise de dados.
+ # Formado em Análise e Desenvolvimento de sistemas, estudando Python com foco em dados.
  <br> 
  # Para conteúdo sobre dados me siga nas redes abaixo!
  
